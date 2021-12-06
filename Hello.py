@@ -2,6 +2,4 @@
 
 print('Hello, world!')
 
-print("I'm Mukilan")
-
-print("Prakatesh came hostel")
+print('20CSR129')
